@@ -5,7 +5,7 @@ DARTS is from [here](https://github.com/quark0/darts).
 ## Guide
 TO DO
 ### Step 1
-Download all current files, and assume the total folder path is "**your_path/F-DRATS/dowload_files**".
+Download all current files, and assume the total folder path is "**your_path/F-DRATS/**".
 
 ### Step 2
 Unzip the "dlls for UI.rar" files to "**your_path/F-DRATS/**", all DLL files are associated with the **UI.exe** in the current folder, for example,
