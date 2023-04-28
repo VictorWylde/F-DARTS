@@ -22,6 +22,7 @@ Go to the path **"your_python_path/Lib/site-packages/"**, copy **"cv2", "numpy",
 
 ### Step 5
 Click UI.exe, and you can see a UI like this:
+
 ![](./mdimgs/1.png)
 
 
