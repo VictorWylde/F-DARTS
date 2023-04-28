@@ -18,7 +18,7 @@ Install the same package with **requirements.txt**
 $ pip install -r requirements.txt
 ```
 ### Step 4
-Go to the path **"your_python_path/Lib/site-packages/"**, copy **"cv2", "numpy", "scipy", "torch" and "wx"** to "**your_path/F-DRATS/**"
+Go to the path **"your_python_path/Lib/site-packages/"**, and copy **"cv2", "numpy", "scipy", "torch" and "wx"** to "**your_path/F-DRATS/**"
 
 ### Step 5
 Click UI.exe, and you can see a UI like this:
