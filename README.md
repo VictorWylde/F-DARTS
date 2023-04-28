@@ -1,5 +1,8 @@
 # F-DARTS
-This is GUI and models for F-DRATS (Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion).
+This is GUI and test models for F-DRATS (Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion).
+
+**Since the project may be used in future production, test models are provided without source codes .**
+
 DARTS is from [here](https://github.com/quark0/darts).
 
 ## Guide
