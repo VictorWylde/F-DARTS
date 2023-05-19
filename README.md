@@ -1,7 +1,7 @@
 # F-DARTS
 These are GUI and trained models for our paper titled "Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion".
 
-**The use of trained models for our proposed F-DARTS are shown here. Please note that our method is trained on five training sets including CT-MR images, CT/MR-SPECT images and multi-modal MR images in the [Atlas](http://www.med.harvard.edu/AANLIB/) dataset,  multi-modal MR images in the [BrainWeb](https://BrainWeb.bic.mni.mcgill.ca/BrainWeb/) dataset, CT-MR images in the [RIRE](http://insight-journal.org/rire/) dataset**
+**The use of trained models for our proposed F-DARTS is shown here. Please note that our method is trained on five training sets including CT-MR images, CT/MR-SPECT images and multi-modal MR images in the [Atlas](http://www.med.harvard.edu/AANLIB/) dataset,  multi-modal MR images in the [BrainWeb](https://BrainWeb.bic.mni.mcgill.ca/BrainWeb/) dataset, CT-MR images in the [RIRE](http://insight-journal.org/rire/) dataset**
 
 DARTS is from [here](https://github.com/quark0/darts).
 
