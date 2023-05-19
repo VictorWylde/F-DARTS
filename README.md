@@ -1,5 +1,5 @@
 # F-DARTS
-These are GUI and test models for our paper titled "Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion".
+These are GUI and trained models for our paper titled "Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion".
 
 **The five trained models for our proposed F-DARTS can be found here. Please note that our method is tested on [Atlas](http://www.med.harvard.edu/AANLIB/), [BrainWeb](https://BrainWeb.bic.mni.mcgill.ca/BrainWeb/) and [RIRE](http://insight-journal.org/rire/)**
 
