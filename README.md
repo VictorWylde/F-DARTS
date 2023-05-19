@@ -35,14 +35,13 @@ Click UI.exe, and you can see a UI like this:
 * Click the **OUT_Path** button, choose the path to save the output images, or you can use the default path.
 
 * Dataset:
-  * Atlas, http://www.med.harvard.edu/AANLIB/, (accessed May 1, 2021)
+  * [Atlas](http://www.med.harvard.edu/AANLIB/)
     * CM: CT-MR 
     * SPECT: CT/MR-SPECT 
     * MM: Multi-model MR 
-  * BrainWeb, Multi-model MR, https://BrainWeb.bic.mni.mcgill.ca/BrainWeb/, (accessed
-  May 1, 2021)
+  * [BrainWeb](https://BrainWeb.bic.mni.mcgill.ca/BrainWeb/), Multi-model MR
     * BW
-  * RIRE, CT-MR, http://insight-journal.org/rire/, (accessed May 1, 2021)
+  * [RIRE](http://insight-journal.org/rire/), CT-MR
     * RIRE
   * **NOTE**: The names of the images in every dataset are the same, for example, "0001.png" in "/data/CM/1/" and the paired image in "/data/CM/2/" is the same name, and the paired images should be the same size.
 
